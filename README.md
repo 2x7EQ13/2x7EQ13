@@ -16,9 +16,9 @@ I'm a passionate C/C++ programmer with a keen interest in cybersecurity, particu
 - Offensive Security
 - Social Engineering Awareness
 
-## ☕ Like what I do? You can fuel my creativity with a coffee!
+## 𝕏 Like what I do? Fuel my creativity by following me on X/Twitter!
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/twosevenonethree)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TwoSevenOneT?style=for-the-badge&logo=x&color=000)](https://x.com/TwoSevenOneT)
 
 ## 📫 How to Reach Me
 
